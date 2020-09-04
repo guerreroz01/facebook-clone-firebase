@@ -80,3 +80,12 @@
 .header__right {
   display: flex;
 }
+
+@media screen and (max-width: 1030px) {
+  .header__left {
+    display: none;
+  }
+  .header__right {
+    display: none;
+  }
+}

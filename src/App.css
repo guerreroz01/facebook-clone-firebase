@@ -1,8 +1,15 @@
 .app {
   background-color: #f1f2f5;
   height: 100%;
+  min-width: 100vw;
 }
 
 .app__body {
   display: flex;
+}
+
+@media screen and (max-width: 712px) {
+  .app {
+    width: fit-content;
+  }
 }

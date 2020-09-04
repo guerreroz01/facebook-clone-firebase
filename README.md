@@ -5,6 +5,7 @@
   <img src="facebook3.jpg" width="1920" alt="accessibility text">
 </p>
 
+
 ## Available Scripts
 ### `npm start`
 
